@@ -42,7 +42,7 @@ currency-tracker/
 Клонируйте репозиторий:
 
 ```bash
-git clone <ссылка-на-репозиторий>
+git clone https://github.com/binary-moss/currency-tracker
 cd currency-tracker
 ```
 
